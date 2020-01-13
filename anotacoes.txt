@@ -1,0 +1,13 @@
+1 - yarn add react-router-dom //Trabalhando com as rotas
+2 - yarn add styled-components //Trabalhando com os estilos
+3 - yarn add react-icons //Trabalhando com os icones
+4 - yarn add polished //Trabalha com as cores no javascript
+5 - yarn add json-server -D //Trabalha com uma api fake
+6 - yarn add axios //Trabalhando com as chamadas na API
+7 - yarn json-server  nome_do_arquivo -p 3333 //Roda a API fake
+8 - yarn add redux react-redux //Pacote do Redux e integração do react com redux
+9 - yarn add immer //Trabalha com os imutabilidade do state
+10- yarn add redux-saga //Trabalha com os middelewares
+11- yarn add react-toastify //Trabalha com as mensagens de erro 
+// importa no App.js e no global.js dos estilos
+12- yarn add history //Trabalha com as rotas junto ao saga
